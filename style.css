@@ -1,0 +1,27 @@
+#div_1{
+    background-color: lightslategrey;
+    height: 150px;
+    float:inline-start;
+}
+
+#div_2{
+    background-color: darkgrey;
+    height: 700px;
+}
+
+p{
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height:400px;
+}
